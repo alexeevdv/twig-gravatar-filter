@@ -9,7 +9,7 @@
 
 This is Twig filter which converts email to Gravatar image url.
 
-## Installation:
+## Installation
 
 The preferred way to install this extension is through [composer](https://getcomposer.org/download/).
 
